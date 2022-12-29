@@ -1,0 +1,18 @@
+development:
+  cloud_name: "dlt8epvwi"
+  api_key: "921499623181884"
+  api_secret: "umqo0TVbq60Ho0tJT-AhuK0ahFg"
+  enhance_image_tag: true
+  static_file_support: false
+production:
+  cloud_name: "dlt8epvwi"
+  api_key: "921499623181884"
+  api_secret: "umqo0TVbq60Ho0tJT-AhuK0ahFg"
+  enhance_image_tag: true
+  static_file_support: true
+test:
+  cloud_name: "dlt8epvwi"
+  api_key: "921499623181884"
+  api_secret: "umqo0TVbq60Ho0tJT-AhuK0ahFg"
+  enhance_image_tag: true
+  static_file_support: false
