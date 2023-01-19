@@ -84,4 +84,4 @@ $ rails s
 - [Timothy Lenku](https://github.com/esipil)
 
 # License
-This project is under [MIT]() license.
+This project is under [MIT](https://github.com/Edward-ochieng/Blog-app-backend/blob/main/LICENSE.txt) license.
