@@ -43,7 +43,7 @@ class UsersController < ApplicationController
 
     # Only allow a list of trusted parameters through.
     def user_params
-      params.permit(:firstname, :secondname, :username, :email_address, :password, :pro )
+      params.permit(:firstname, :secondname, :username, :email_address, :password, :password_confirmation)
     end
     def render_unprocessable_entity_response (invalid)
       render json: { errors: invalid.record.errors }, status: :unprocessable_entity
