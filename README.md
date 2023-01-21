@@ -40,7 +40,7 @@ $ gem install rails
 ## Install [SQLite 3](https://www.sqlite.org/)
 - Install SQLite 3 using the following command:
 ```
-$ Sudo apt install sqlite3
+$ sudo apt install sqlite3
 ```
 - Verify the installation using the command:
 ```
